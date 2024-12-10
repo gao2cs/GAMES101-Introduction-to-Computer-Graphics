@@ -1,0 +1,54 @@
+﻿  main.cpp
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework4_S2021\Assignment4\main.cpp(29,44): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework4_S2021\Assignment4\main.cpp(29,44): warning C4244:         with
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework4_S2021\Assignment4\main.cpp(29,44): warning C4244:         [
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework4_S2021\Assignment4\main.cpp(29,44): warning C4244:             _Tp=float
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework4_S2021\Assignment4\main.cpp(29,44): warning C4244:         ]
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework4_S2021\Assignment4\main.cpp(29,35): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework4_S2021\Assignment4\main.cpp(29,35): warning C4244:         with
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework4_S2021\Assignment4\main.cpp(29,35): warning C4244:         [
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework4_S2021\Assignment4\main.cpp(29,35): warning C4244:             _Tp=float
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework4_S2021\Assignment4\main.cpp(29,35): warning C4244:         ]
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework4_S2021\Assignment4\main.cpp(55,62): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework4_S2021\Assignment4\main.cpp(57,44): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework4_S2021\Assignment4\main.cpp(57,44): warning C4244:         with
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework4_S2021\Assignment4\main.cpp(57,44): warning C4244:         [
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework4_S2021\Assignment4\main.cpp(57,44): warning C4244:             _Tp=float
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework4_S2021\Assignment4\main.cpp(57,44): warning C4244:         ]
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework4_S2021\Assignment4\main.cpp(57,35): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework4_S2021\Assignment4\main.cpp(57,35): warning C4244:         with
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework4_S2021\Assignment4\main.cpp(57,35): warning C4244:         [
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework4_S2021\Assignment4\main.cpp(57,35): warning C4244:             _Tp=float
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework4_S2021\Assignment4\main.cpp(57,35): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(727,103): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(727,103): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(727,103): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(727,103): warning C4244:             _Tp=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(727,103): warning C4244:         ]
+  (编译源文件“../main.cpp”)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(727,103):
+  模板实例化上下文(最早的实例化上下文)为
+  	C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework4_S2021\Assignment4\main.cpp(13,23):
+  	查看对正在编译的函数 模板 实例化“void std::vector<cv::Point2f,std::allocator<cv::Point2f>>::emplace_back<int&,int&>(int &,int &)”的引用
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vector(862,24):
+  	查看对正在编译的函数 模板 实例化“_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_one_at_back<int&,int&>(int &,int &)”的引用
+          with
+          [
+              _Ty=cv::Point2f
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vector(780,20):
+  	查看对正在编译的函数 模板 实例化“_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<int&,int&>(int &,int &)”的引用
+          with
+          [
+              _Ty=cv::Point2f
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vector(798,27):
+  	查看对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,int&,int&>(_Alloc &,_Objty *const ,int &,int &)”的引用
+          with
+          [
+              _Alloc=std::allocator<cv::Point2f>,
+              _Ty=cv::Point_<float>,
+              _Objty=cv::Point_<float>
+          ]
+  
+  BezierCurve.vcxproj -> C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework4_S2021\Assignment4\build\Debug\BezierCurve.exe

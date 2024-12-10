@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework1_S2021\Homework1\Assignment1\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework1_S2021\Homework1\Assignment1\rasterizer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework1_S2021\Homework1\Assignment1\Triangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework1_S2021\Homework1\Assignment1\rasterizer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework1_S2021\Homework1\Assignment1\Triangle.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework1_S2021\Homework1\Assignment1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D8B56615-B2E1-376A-9F20-129F24A38C5F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FD3F125B-E6F2-3FC1-9B7D-4FD3DB31C8D2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

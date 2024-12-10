@@ -1,0 +1,10 @@
+^C:\USERS\XIANG GAO\DESKTOP\GAMES101\GAMES101_HOMEWORK_S2021\GAMES101_HOMEWORK2_S2021\HOMEWORK2\代码框架\BUILD\CMAKEFILES\FDE0A8F8783E1F5B15E8E90DCAEB562E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Xiang Gao/Desktop/GAMES101/GAMES101_Homework_S2021/GAMES101_Homework2_S2021/Homework2/代码框架" "-BC:/Users/Xiang Gao/Desktop/GAMES101/GAMES101_Homework_S2021/GAMES101_Homework2_S2021/Homework2/代码框架/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Xiang Gao/Desktop/GAMES101/GAMES101_Homework_S2021/GAMES101_Homework2_S2021/Homework2/代码框架/build/Rasterizer.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,17 @@
+﻿  rasterizer.cpp
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework2_S2021\Homework2\代码框架\rasterizer.cpp(92,14): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework2_S2021\Homework2\代码框架\rasterizer.cpp(93,14): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework2_S2021\Homework2\代码框架\rasterizer.cpp(111,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework2_S2021\Homework2\代码框架\rasterizer.cpp(112,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework2_S2021\Homework2\代码框架\rasterizer.cpp(158,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework2_S2021\Homework2\代码框架\rasterizer.cpp(159,24): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework2_S2021\Homework2\代码框架\rasterizer.cpp(178,48): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework2_S2021\Homework2\代码框架\rasterizer.cpp(196,54): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework2_S2021\Homework2\代码框架\rasterizer.cpp(196,51): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework2_S2021\Homework2\代码框架\rasterizer.cpp(208,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework2_S2021\Homework2\代码框架\rasterizer.cpp(209,24): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework2_S2021\Homework2\代码框架\rasterizer.cpp(221,40): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework2_S2021\Homework2\代码框架\rasterizer.cpp(231,54): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework2_S2021\Homework2\代码框架\rasterizer.cpp(231,51): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework2_S2021\Homework2\代码框架\rasterizer.cpp(282,15): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+  Rasterizer.vcxproj -> C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework2_S2021\Homework2\代码框架\build\Debug\Rasterizer.exe

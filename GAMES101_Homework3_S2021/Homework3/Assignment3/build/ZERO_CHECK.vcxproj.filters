@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework3_S2021\Homework3\Assignment3\build\CMakeFiles\10f0c49b139d39cd3d778ab92e57fded\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0E44AE61-4457-30CE-A057-9A6A37BE5081}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

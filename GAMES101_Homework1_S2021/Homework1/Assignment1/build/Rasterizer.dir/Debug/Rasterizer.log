@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework1_S2021\Homework1\Assignment1\main.cpp(32,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework1_S2021\Homework1\Assignment1\main.cpp(53,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework1_S2021\Homework1\Assignment1\main.cpp(139,55): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework1_S2021\Homework1\Assignment1\main.cpp(155,55): warning C4305: “参数”: 从“double”到“float”截断
+  Rasterizer.vcxproj -> C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework1_S2021\Homework1\Assignment1\build\Debug\Rasterizer.exe

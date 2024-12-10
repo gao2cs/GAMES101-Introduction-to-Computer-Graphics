@@ -1,0 +1,93 @@
+﻿  BVH.cpp
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\global.hpp(19,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../BVH.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\global.hpp(21,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../BVH.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\global.hpp(45,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“../BVH.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Ray.hpp(16,68): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../BVH.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Ray.hpp(16,52): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../BVH.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Ray.hpp(16,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../BVH.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Ray.hpp(22,65): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+  (编译源文件“../BVH.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../BVH.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../BVH.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../BVH.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../BVH.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../BVH.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../BVH.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\BVH.cpp(134,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Scene.cpp
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\global.hpp(19,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\global.hpp(21,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\global.hpp(45,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Ray.hpp(16,68): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Ray.hpp(16,52): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Ray.hpp(16,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Ray.hpp(22,65): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Scene.hpp(23,60): warning C4305: “参数”: 从“double”到“float”截断
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Scene.hpp(23,51): warning C4305: “参数”: 从“double”到“float”截断
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Scene.hpp(23,41): warning C4305: “参数”: 从“double”到“float”截断
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Scene.cpp(133,40): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+  正在生成代码...
+  RayTracing.vcxproj -> C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\build\Debug\RayTracing.exe

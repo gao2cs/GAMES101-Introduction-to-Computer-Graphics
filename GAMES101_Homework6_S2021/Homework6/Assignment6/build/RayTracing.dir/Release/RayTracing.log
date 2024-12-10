@@ -1,0 +1,231 @@
+﻿  BVH.cpp
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\global.hpp(19,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../BVH.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\global.hpp(21,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../BVH.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\global.hpp(45,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“../BVH.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Ray.hpp(16,68): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../BVH.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Ray.hpp(16,52): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../BVH.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Ray.hpp(16,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../BVH.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Ray.hpp(22,65): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+  (编译源文件“../BVH.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../BVH.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../BVH.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../BVH.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../BVH.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../BVH.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../BVH.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\BVH.cpp(134,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Scene.cpp
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\global.hpp(19,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\global.hpp(21,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\global.hpp(45,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Ray.hpp(16,68): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Ray.hpp(16,52): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Ray.hpp(16,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Ray.hpp(22,65): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Scene.hpp(23,60): warning C4305: “参数”: 从“double”到“float”截断
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Scene.hpp(23,51): warning C4305: “参数”: 从“double”到“float”截断
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Scene.hpp(23,41): warning C4305: “参数”: 从“double”到“float”截断
+  (编译源文件“../Scene.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Scene.cpp(133,40): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+  main.cpp
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\global.hpp(19,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\global.hpp(21,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\global.hpp(45,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Ray.hpp(16,68): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Ray.hpp(16,52): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Ray.hpp(16,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Ray.hpp(22,65): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Scene.hpp(23,60): warning C4305: “参数”: 从“double”到“float”截断
+  (编译源文件“../main.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Scene.hpp(23,51): warning C4305: “参数”: 从“double”到“float”截断
+  (编译源文件“../main.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Scene.hpp(23,41): warning C4305: “参数”: 从“double”到“float”截断
+  (编译源文件“../main.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\OBJ_Loader.hpp(945,33): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Triangle.hpp(113,27): warning C4305: “=”: 从“double”到“float”截断
+  (编译源文件“../main.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Triangle.hpp(173,23): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Triangle.hpp(176,36): warning C4305: “参数”: 从“double”到“float”截断
+  (编译源文件“../main.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Triangle.hpp(176,29): warning C4305: “参数”: 从“double”到“float”截断
+  (编译源文件“../main.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Triangle.hpp(176,22): warning C4305: “参数”: 从“double”到“float”截断
+  (编译源文件“../main.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Triangle.hpp(175,44): warning C4305: “参数”: 从“double”到“float”截断
+  (编译源文件“../main.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Triangle.hpp(175,37): warning C4305: “参数”: 从“double”到“float”截断
+  (编译源文件“../main.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Triangle.hpp(175,30): warning C4305: “参数”: 从“double”到“float”截断
+  (编译源文件“../main.cpp”)
+  
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Triangle.hpp(245,33): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\memory(3434,56): warning C4244: “参数”: 从“_Ty”转换到“float”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\memory(3434,56): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\memory(3434,56): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\memory(3434,56): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\memory(3434,56): warning C4244:         ]
+  (编译源文件“../main.cpp”)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\memory(3434,56):
+  模板实例化上下文(最早的实例化上下文)为
+  	C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\main.cpp(19,20):
+  	查看对正在编译的函数 模板 实例化“std::unique_ptr<Light,std::default_delete<Light>> std::make_unique<Light,Vector3f,int,0>(Vector3f &&,int &&)”的引用
+  
+  正在生成代码...
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(20,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,1): warning C4756: 常量算法中溢出
+C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\Bounds3.hpp(21,1): warning C4756: 常量算法中溢出
+  RayTracing.vcxproj -> C:\Users\Xiang Gao\Desktop\GAMES101\GAMES101_Homework_S2021\GAMES101_Homework6_S2021\Homework6\Assignment6\build\Release\RayTracing.exe

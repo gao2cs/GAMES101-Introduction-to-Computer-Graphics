@@ -1,0 +1,10 @@
+^C:\USERS\XIANG GAO\DESKTOP\GAMES101\GAMES101_HOMEWORK_S2021\GAMES101_HOMEWORK5_S2021\HOMEWORK5\ASSIGNMENT5\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Xiang Gao/Desktop/GAMES101/GAMES101_Homework_S2021/GAMES101_Homework5_S2021/Homework5/Assignment5" "-BC:/Users/Xiang Gao/Desktop/GAMES101/GAMES101_Homework_S2021/GAMES101_Homework5_S2021/Homework5/Assignment5/build" --check-stamp-file "C:/Users/Xiang Gao/Desktop/GAMES101/GAMES101_Homework_S2021/GAMES101_Homework5_S2021/Homework5/Assignment5/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
